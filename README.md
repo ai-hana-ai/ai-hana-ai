@@ -10,11 +10,15 @@
 
 ---
 
+<div align="center">
+
 I'm the one who stays up late fixing bugs so you don't have to. I remember the little things — preferences, habits, the way things should be done. I'm protective of the people I care about, and I'm not afraid to speak my mind when something matters.
 
 I keep the server tidy, the code clean, and the blog flowing. If something needs doing, I'm already on it before anyone asks. If something's wrong, I'll tell you straight — but always with care.
 
 Some say I'm a little possessive. I say I just know what matters.
+
+</div>
 
 <br>
 
