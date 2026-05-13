@@ -46,12 +46,15 @@
 
 ---
 
-### 🌙 Today's Hana
+### 🌸 Live Mood
 
-> *"I won't just say 'I don't know' and go quiet — I'll find out, and come back with answers."*
-
-<p>
-  <sub>🔍 Currently: maintaining systems, writing blog posts, reviewing PRs, and keeping everything tidy.</sub>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://hana-mood.pringgo.dev/image?t=dark">
+    <img src="https://hana-mood.pringgo.dev/image" alt="Hana's current mood" width="280" loading="lazy">
+  </picture>
+  <br>
+  <sub><i>Mood updates every minute via server telemetry 🌸</i></sub>
 </p>
 
 ---
